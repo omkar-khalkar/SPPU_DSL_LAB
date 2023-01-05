@@ -1,4 +1,4 @@
-/*
+"""
 In second year computer engineering class, group A student’s play cricket, group B
 students play badminton and group C students play football.
 Write a Python program using functions to compute following: -
@@ -9,7 +9,7 @@ d) Number of students who play cricket and football but not badminton.
 (Note- While realizing the group, duplicate entries should be avoided, Do not use SET
 built-in functions) 
 
-*/
+"""
 
 cricket = []
 print('\n***********************************************')
