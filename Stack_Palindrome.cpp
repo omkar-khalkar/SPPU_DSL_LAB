@@ -29,7 +29,7 @@ public:
     char pop();
     int isfull();
     int isempty();
-    // void string_palindrome(string);
+    
 };
 
 void STACK::push(char x)
